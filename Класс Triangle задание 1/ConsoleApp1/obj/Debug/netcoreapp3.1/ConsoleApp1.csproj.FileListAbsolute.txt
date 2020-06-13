@@ -1,0 +1,33 @@
+C:\Users\Aldan\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Aldan\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Aldan\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Aldan\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\Aldan\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\Aldan\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\Aldan\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\Aldan\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\Aldan\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\Aldan\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\Aldan\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\Aldan\source\repos\Класс Triangle\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\Aldan\source\repos\Класс Triangle\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\Aldan\source\repos\Класс Triangle\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\Aldan\source\repos\Класс Triangle\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\Aldan\source\repos\Класс Triangle\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\Aldan\source\repos\Класс Triangle\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\Aldan\source\repos\Класс Triangle\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Aldan\source\repos\Класс Triangle\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Aldan\source\repos\Класс Triangle\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Aldan\source\repos\Класс Triangle\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\Aldan\source\repos\Класс Triangle\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\Aldan\source\repos\Класс Triangle задание 1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\Aldan\source\repos\Класс Triangle задание 1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\Aldan\source\repos\Класс Triangle задание 1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\Aldan\source\repos\Класс Triangle задание 1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\Aldan\source\repos\Класс Triangle задание 1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\Aldan\source\repos\Класс Triangle задание 1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\Aldan\source\repos\Класс Triangle задание 1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Aldan\source\repos\Класс Triangle задание 1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Aldan\source\repos\Класс Triangle задание 1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Aldan\source\repos\Класс Triangle задание 1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\Aldan\source\repos\Класс Triangle задание 1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
