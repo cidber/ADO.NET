@@ -1,0 +1,10 @@
+C:\Users\Aldan\source\repos\Task2\Task2\obj\Debug\netcoreapp3.1\Task2.AssemblyInfoInputs.cache
+C:\Users\Aldan\source\repos\Task2\Task2\obj\Debug\netcoreapp3.1\Task2.AssemblyInfo.cs
+C:\Users\Aldan\source\repos\Task2\Task2\bin\Debug\netcoreapp3.1\Task2.exe
+C:\Users\Aldan\source\repos\Task2\Task2\bin\Debug\netcoreapp3.1\Task2.deps.json
+C:\Users\Aldan\source\repos\Task2\Task2\bin\Debug\netcoreapp3.1\Task2.runtimeconfig.json
+C:\Users\Aldan\source\repos\Task2\Task2\bin\Debug\netcoreapp3.1\Task2.runtimeconfig.dev.json
+C:\Users\Aldan\source\repos\Task2\Task2\bin\Debug\netcoreapp3.1\Task2.dll
+C:\Users\Aldan\source\repos\Task2\Task2\bin\Debug\netcoreapp3.1\Task2.pdb
+C:\Users\Aldan\source\repos\Task2\Task2\obj\Debug\netcoreapp3.1\Task2.dll
+C:\Users\Aldan\source\repos\Task2\Task2\obj\Debug\netcoreapp3.1\Task2.pdb
